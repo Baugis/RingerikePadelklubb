@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=PT+Sans:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+    background-color: #030C16 !important;
+    font-family: 'PT Sans', sans-serif !important;
+    color: rgba(255, 255, 255, 0.6) !important;
+    font-weight: 400 !important;
+}
+
+/* Typographi */
+h1, h2, h3, h4 {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+h1 {
+    font-size: 40px !important;
+    font-weight: 700 !important;
+    color: white !important;
+}
+
+h2 {
+    font-size: 36px !important;
+    font-weight: 700 !important;
+}
+
+
+/* Navbar */
+nav ul li a {
+    color: white !important;
+}
+
+.navbar-brand img {
+    height: 40px !important;
+}
+
+/* Hero */
+.hero {
+    height: 100vh;
+}
