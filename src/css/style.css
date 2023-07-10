@@ -8,6 +8,10 @@ body {
     font-weight: 400 !important;
 }
 
+.bg-darkBlue {
+    background-color: #0C1621 !important;
+}
+
 /* Typographi */
 h1, h2, h3, h4 {
     font-family: 'Open Sans', sans-serif !important;
@@ -22,10 +26,15 @@ h1 {
 h2 {
     font-size: 36px !important;
     font-weight: 700 !important;
+    color: white !important;
 }
 
 
 /* Navbar */
+nav {
+    background-color: #030C16 !important;
+}
+
 nav ul li a {
     color: white !important;
 }
@@ -38,3 +47,5 @@ nav ul li a {
 .hero {
     height: 100vh;
 }
+
+/* Klubbfordeler */
